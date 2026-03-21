@@ -1,0 +1,57 @@
+Daily Rituals — Streak Tracker for Rainmeter
+by Subhasis Biswal | v1.0.0 | MIT License
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+A warm amber/gold glassmorphism daily habit tracker with Bhagavad Gita quotes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FEATURES
+
+• Click to check off daily habits with streak counting
+• Overall Streak — tracks consecutive days with ALL habits completed
+• Edit mode — add new rituals or remove existing ones
+• Daily progress bar
+• 30 Bhagavad Gita motivational quotes — one new quote per day
+• Persistent data across restarts
+• Supports up to 8 custom habits
+• Warm amber/gold color palette — no generic blue
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INSTALLATION
+
+1. Download and extract
+2. Copy "StreakTracker" folder to: Documents\Rainmeter\Skins\
+3. Right-click Rainmeter tray icon > Manage
+4. Load StreakTracker > StreakTracker.ini
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HOW TO USE
+
+• Click habit names or circles to check off
+• Click "Edit" to add/remove habits
+• In Edit mode, click "+ Add new ritual" to type a new habit name
+• Quote changes automatically each day
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+REQUIREMENTS
+
+• Rainmeter 4.5 or later
+• Windows 10/11
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CREDITS
+
+Author: Subhasis Biswal
+License: MIT (free to use, modify, and share)
+GitHub: [Add your GitHub repo link here]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"Set your heart upon your work but never on its reward."
+— Bhagavad Gita 2.47

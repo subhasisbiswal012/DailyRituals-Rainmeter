@@ -1,0 +1,14 @@
+# User data (generated at runtime)
+@Resources/data.txt
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
