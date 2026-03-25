@@ -160,11 +160,22 @@ local function calcOverallStreak()
         end
         return true
     end
-    if allDoneOn(t) then streak = 1; t = t - 86400
-    else return 0 end
+    -- Same logic as individual streak:
+    -- If today is all done, count today and check backward
+    -- If today is NOT all done, start checking from yesterday
+    if allDoneOn(t) then
+        streak = 1
+        t = t - 86400
+    else
+        t = t - 86400
+    end
     for _ = 1, 365 do
-        if allDoneOn(t) then streak = streak + 1; t = t - 86400
-        else break end
+        if allDoneOn(t) then
+            streak = streak + 1
+            t = t - 86400
+        else
+            break
+        end
     end
     return streak
 end
